@@ -153,7 +153,7 @@
     text-align: center;
 }
 .btn input{
-    background-color: blueviolet;
+    background-color: rgba(135, 60, 205, 0.743);
     margin-top: 10px;
     width: 90%;
     height: 65%;
@@ -171,7 +171,7 @@
 
 /* CSS FOR TEAM2 ********** */
 
-.team2,.team3{
+.team2,.team3,.team4{
     margin: auto;
     /* background-color: rgb(60, 60, 146); */
     width: 90%;
